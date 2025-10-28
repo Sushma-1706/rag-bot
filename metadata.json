@@ -1,0 +1,5 @@
+{
+  "name": "RAG Medical Chatbot",
+  "description": "A Retrieval-Augmented Generation (RAG) chatbot that answers medical questions based only on a provided set of trusted medical sources, ensuring accuracy and safety.",
+  "requestFramePermissions": []
+}
